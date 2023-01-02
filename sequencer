@@ -1,0 +1,14 @@
+sequence = []
+def nucleotide(text):
+  for x in text:
+    if x == "T":
+      sequence.append(x)
+    elif x == "G":
+      sequence.append(x)
+    elif x == "A":
+      sequence.append(x)
+    elif x == "C":
+      sequence.append(x)
+text = "sample text"
+genome = "".join(sequence)
+print genome
