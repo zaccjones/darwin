@@ -9,7 +9,7 @@ def nucleotide(text):
       sequence.append(x)
     elif x == "C":
       sequence.append(x)
-text = "sample text"
+text = "SAMPLETEXT"
 nucleotide(text)
 genome = "".join(sequence)
 print genome
