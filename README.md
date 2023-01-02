@@ -6,5 +6,5 @@ For example, Charles Darwin's _On the Origin of Species_ shares ranges of DNA wi
 Three publicly accessible databases store large amounts of nucleotide and protein sequence data: GenBank (BLAST alignment tool) at the National Center for Biotechnology Information (NCBI) of the National Institutes of Health (NIH), the DNA Database of Japan (DDBJ), and the European Bioinformatics Institute (EBI)'s EMBL database tool.
 You may also generate the corresponding helix or the RNA sequences corresponding to the genetic sample generated. With RNA, each T (Thymine) nucleotide would be replaced by a U (Uracil).
 The databases also allow for protein sequence searches. Grouping an RNA sequence three-by-three produces codons which correspond to proteins. Charts are available for reference on Google.
-Free full-length texts are also available on the Project Gutenberg website.
+Free full-length texts are also available on Project Gutenberg website.
 Godspeed, ladies, gentlemen and everyone in between.
